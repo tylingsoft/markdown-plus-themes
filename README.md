@@ -5,7 +5,7 @@
 
 ### Dark
 
-CDN: https://cdn.rawgit.com/tylingsoft/markdown-plus-themes/0.0.1/dark/index.css
+CDN: https://cdn.rawgit.com/tylingsoft/markdown-plus-themes/0.0.2/dark/index.css
 
 
 ## Thanks
