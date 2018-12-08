@@ -5,12 +5,12 @@
 
 ### Dark
 
-CDN: https://cdn.rawgit.com/tylingsoft/markdown-plus-themes/0.0.3/dark/index.css
+CDN: https://cdn.jsdelivr.net/gh/tylingsoft/markdown-plus-themes@0.0.3/dark/index.css
 
 
 ### Justify
 
-CDN: https://cdn.rawgit.com/tylingsoft/markdown-plus-themes/0.0.3/justify/index.css
+CDN: https://cdn.jsdelivr.net/gh/tylingsoft/markdown-plus-themes@0.0.3/justify/index.css
 
 
 ## Thanks
